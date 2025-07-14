@@ -35,17 +35,6 @@ Writing the interactive cat story game was a huge confidence boost. It was fun t
 
 I’m excited to keep building projects like this, and I feel more motivated now to tackle Python step-by-step without getting overwhelmed by the math or more advanced concepts.
 
-Next steps:
-
-Continue learning more advanced concepts, with regular review along the way.
-
-Practice more input validation and error handling.
-
-Learn how to organize multiple small projects within one GitHub repository.
-
-
-
-
 
 ## 📅 July 11, 2025
 
