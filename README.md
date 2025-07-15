@@ -1,6 +1,18 @@
 # learning-log
 This repository tracks my daily progress as I learn Python and related tech skills.
 
+## 📅 Today’s Progress - July 15, 2025
+
+Today I dove into Chapter 7 of Automate the Boring Stuff, focusing on dictionaries — a powerful Python data type for storing key-value pairs. I practiced creating dictionaries, accessing values by keys, and looping through keys and values with items().
+
+To solidify my understanding, I wrote a simple interactive script called favoriteSports.py. It asks the user to enter their favorite sports and what they like about each one, storing the responses in a dictionary. Then it prints out the collected information in a clear format using an f-string.
+
+This was my first hands-on experience working with dictionaries in Python, and I feel more confident in using them to organize data efficiently. I also practiced while loops and user input handling, which helped me make the script interactive and user-friendly.
+
+Next, I plan to keep building on these concepts by exploring more dictionary methods and applying them to practical projects.
+
+
+
 ## 📅 – July 14, 2025
 
 Today’s Accomplishments:
