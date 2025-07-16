@@ -1,6 +1,44 @@
 # learning-log
 This repository tracks my daily progress as I learn Python and related tech skills.
 
+## 📅 Today’s Progress - July 16, 2025
+
+Today I worked on two Python projects to deepen my understanding:
+
+Chess Game Program
+I studied a chess game program from Al Sweigart’s materials.
+It was fun to see how a complex game can be programmed, 
+but some concepts were challenging to grasp fully. 
+This gave me a sense of how larger programs are structured
+and the importance of breaking problems into smaller parts.
+
+Python Quiz Program
+I created my own mini Python quiz program to practice fundamental Python concepts. 
+The quiz covers topics such as string length, exponentiation, function definitions,
+membership tests, for loops, input types, comments, floor division, string slicing,
+and variable naming.
+
+In building the quiz, I practiced:
+
+- Organizing questions as a list of dictionaries
+
+- Selecting random questions using random.choice()
+
+- Displaying options clearly with enumerate()
+
+- Handling and validating user input with input() and .strip() to remove unwanted whitespace
+
+- Implementing input validation loops to ensure correct inputs or allow quitting
+
+- Comparing answers and tracking the score dynamically
+
+- Removing asked questions to avoid repetition
+
+Overall, today’s work helped me improve my Python scripting skills, especially around user interaction, 
+data handling, and program flow control. 
+I feel more confident tackling both small and more complex Python projects moving forward, but it's still
+a long way to go. ;-)
+
 ## 📅 Today’s Progress - July 15, 2025
 
 Today I dove into Chapter 7 of Automate the Boring Stuff, focusing on dictionaries — a powerful Python data type for storing key-value pairs. I practiced creating dictionaries, accessing values by keys, and looping through keys and values with items().
