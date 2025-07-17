@@ -1,7 +1,31 @@
 # learning-log
 This repository tracks my daily progress as I learn Python and related tech skills.
 
-## 📅 Today’s Progress - July 16, 2025
+##  Today’s Progress - July 17, 2025
+
+Learning Log Entry — Python Practice: Interactive List Manager (Reinforcement)
+
+Today, I revisited and reinforced core Python concepts by building an interactive list manager program. 
+The program allows the user to add, remove, show, or quit managing a list of items.
+
+Key points I focused on:
+
+- Using a continuous while True loop for ongoing user interaction.
+
+- Processing user input carefully with .strip().lower() to avoid common input errors.
+
+- Manipulating lists: adding items with .append() and safely removing them with .remove().
+
+- Implementing try-except blocks to handle errors gracefully when trying to remove non-existent items.
+
+- Displaying list contents cleanly by iterating through the list and printing items one by one.
+
+- Providing clear feedback to the user after each action.
+
+This session was about reinforcing these foundational concepts through repetition and hands-on practice to deepen my understanding and confidence.
+
+
+##  Today’s Progress - July 16, 2025
 
 Today I worked on two Python projects to deepen my understanding:
 
@@ -39,7 +63,7 @@ data handling, and program flow control.
 I feel more confident tackling both small and more complex Python projects moving forward, but it's still
 a long way to go. ;-)
 
-## 📅 Today’s Progress - July 15, 2025
+##  Today’s Progress - July 15, 2025
 
 Today I dove into Chapter 7 of Automate the Boring Stuff, focusing on dictionaries — a powerful Python data type for storing key-value pairs. I practiced creating dictionaries, accessing values by keys, and looping through keys and values with items().
 
@@ -51,7 +75,7 @@ Next, I plan to keep building on these concepts by exploring more dictionary met
 
 
 
-## 📅 – July 14, 2025
+##  – July 14, 2025
 
 Today’s Accomplishments:
 
@@ -86,7 +110,7 @@ Writing the interactive cat story game was a huge confidence boost. It was fun t
 I’m excited to keep building projects like this, and I feel more motivated now to tackle Python step-by-step without getting overwhelmed by the math or more advanced concepts.
 
 
-## 📅 July 11, 2025
+##  July 11, 2025
 
 **What I practiced today:**
 - Removing items from a list with a `while` loop
