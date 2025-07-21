@@ -1,6 +1,22 @@
 # learning-log
 This repository tracks my daily progress as I learn Python and related tech skills.
 
+##  Today’s Progress - July 21, 2025
+Learning Log — Python Practice and Google Analytics Mock Project
+
+Today, I continued working with Automate the Boring Stuff with Python, 
+focusing on Chapters 8 and 9 which cover file handling and organizing data. 
+I practiced reading and writing text files using Python, 
+improving my understanding of how to manage file input and output.
+
+After that, I built a small Python project simulating Google Analytics data collection. 
+Since I don’t have access to the actual GA API,
+I created mock data to imitate GA reports and wrote a program that processes and displays this data clearly.
+This helped me practice working with JSON data and file operations.
+
+This exercise gave me hands-on experience with data structures, file handling, and sharing code publicly,
+reinforcing my learning and preparing me for future projects involving real APIs.
+
 ##  Today’s Progress - July 17, 2025
 
 Learning Log Entry — Python Practice: Interactive List Manager (Reinforcement)
