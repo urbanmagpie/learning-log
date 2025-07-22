@@ -1,6 +1,27 @@
 # learning-log
 This repository tracks my daily progress as I learn Python and related tech skills.
 
+## Learning Log – 22 July 2025
+
+### Topics Covered:
+
+Python Regex Practice
+Completed Chapter 7 practice exercises from *Automate the Boring Stuff with Python*. Worked with `re.compile()`, `search()`, and `findall()` functions. Practiced using groups, shorthand character classes (`\d`, `\w`, `\s`), and quantifiers (`?`, `*`, `+`). Focused on writing, testing, and understanding regular expressions for text analysis.
+
+Strong Password Detector Project
+Created a Python script that checks whether a password meets certain strength criteria using regular expressions. The script validates lowercase, uppercase, numeric characters, and minimum length. Used `input()` to interact with the user and tested the logic with different examples.
+
+Next Steps
+Preparing to start Chapter 10 on file handling and exception management. The goal is to build comfort with reading/writing files and handling runtime errors in Python scripts.
+
+---
+
+Reflection:
+Made solid progress with regular expressions and practical scripting. Gaining confidence in applying Python to real-world tasks.
+
+
+
+
 ##  Today’s Progress - July 21, 2025
 Learning Log — Python Practice and Google Analytics Mock Project
 
