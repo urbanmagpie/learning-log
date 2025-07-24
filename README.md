@@ -1,6 +1,33 @@
 # learning-log
 This repository tracks my daily progress as I learn Python and related tech skills.
 
+## Simple House Price Predictor App - July 24 2025
+
+What I learned
+Today, I built an interactive web app using Streamlit, a powerful yet beginner-friendly Python framework for creating data apps quickly.
+
+The app predicts house prices based on user input for house size (in square meters) by applying a linear regression model trained with sample data. This hands-on project helped me understand how to combine machine learning with an intuitive user interface.
+
+Key takeaways
+Streamlit basics: How to set up titles, text, input widgets (number_input), and buttons in the app.
+
+User interaction: Capturing input and displaying dynamic output.
+
+Machine learning integration: Using LinearRegression from scikit-learn for real predictions.
+
+Deployment: Learned about deploying apps online using Streamlit Cloud, enabling me to share my app with others via a URL — all for free.
+
+Troubleshooting: Resolved errors related to missing libraries and environment setup, which deepened my understanding of Python environments and dependencies.
+
+What’s next
+Enhance the app with more features like input validation, multiple predictors, and better UI design.
+
+Learn how to connect apps to real datasets.
+
+Explore other Python frameworks for web apps.
+
+Keep practicing deployment and version control with GitHub.
+
 ## Learning Log – 22 July 2025
 
 ### Topics Covered:
